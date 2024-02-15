@@ -1,4 +1,3 @@
-```java
 package com.epam.edp.demo.controller;
 
 import com.epam.edp.demo.entity.Badge;
@@ -32,4 +31,3 @@ public class BadgeController {
         return badgeService.getAllBadges();
     }
 }
-```
