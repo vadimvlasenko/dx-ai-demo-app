@@ -1,0 +1,5 @@
+INSERT INTO badges (badge_name, description, points_required, badge_image, create_date, update_date) VALUES ('Achiever', 'For outstanding achievements', 1000, 'achiever.png', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP);
+INSERT INTO badges (badge_name, description, points_required, badge_image, create_date, update_date) VALUES ('Innovator', 'For innovative contributions', 500, 'innovator.png', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP);
+INSERT INTO badges (badge_name, description, points_required, badge_image, create_date, update_date) VALUES ('Collaborator', 'For exceptional collaboration', 750, 'collaborator.png', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP);
+INSERT INTO badges (badge_name, description, points_required, badge_image, create_date, update_date) VALUES ('Leader', 'For exemplary leadership', 1500, 'leader.png', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP);
+INSERT INTO badges (badge_name, description, points_required, badge_image, create_date, update_date) VALUES ('Hero', 'For going above and beyond', 2000, 'hero.png', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP);
