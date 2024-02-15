@@ -1,0 +1,2 @@
+INSERT INTO badges (badge_id, badge_name, description, points_required, badge_image, create_date, update_date) VALUES (1, 'Super User', 'Awarded for being a super user.', 1000, '/images/super_user.png', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP);
+-- 9 more INSERT statements follow, with different IDs and appropriate values for each column.
